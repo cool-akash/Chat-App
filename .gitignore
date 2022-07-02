@@ -6,7 +6,7 @@
 /frontend/build
 /.pnp
 .pnp.js
-
+.replit
 # testing
 /coverage
 
